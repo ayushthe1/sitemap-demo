@@ -1,0 +1,2117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://layer5.io/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://layer5.io/projects/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/cloud-native-management/meshmap/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/cloud-native-management/meshmap/design/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/cloud-native-management/meshmap/visualize/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/cloud-native-management/meshmap/collaborate/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/cloud-native-management/meshery/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/docker-extension-meshery/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/projects/nighthawk/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/landscape/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-books/service-mesh-patterns/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/projects/service-mesh-interface-conformance/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/projects/service-mesh-performance/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-books/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-labs/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/meshmates/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/calendar/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/news/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/pricing/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/partners/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/layer5-and-hashicorp-launch-service-mesh-partnership/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://layer5.io/service-mesh-landscape/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/projects/image-hub/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/meshmap/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/faq/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/programs/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/writing-program/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/about/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/brand/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/contact/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/legal/privacy/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/legal/terms-of-service/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/cloud-native-management/meshery/operating-service-meshes/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/cloud-native-management/meshery/getting-started/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/books/service-mesh-patterns/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/cloud-native-management/meshery/meshery-operator/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/docker/extending-the-docker-compose-experience-to-service-mesh/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/docker/extending-docker-with-meshery-spire-and-istio/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/meshery/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/programs/starting-smi-conformance-testing-with-meshery/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-books/istio-up-and-running/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-books/the-enterprise-path-to-service-mesh-architectures/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/istiocon-using-istio/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/advanced-istio/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/service-mesh-fundamentals-with-linkerd/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-labs/working-with-meshery-and-istio/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-labs/working-with-meshery-and-linkerd/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-labs/working-with-meshery-and-consul/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-labs/working-with-meshery-and-kuma/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/oscon-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/infrastructure-ops-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/open-source-101-at-home/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/cloud-native-austin-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/all-things-open-2019/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/devfest-montreal-2019/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/oreilly-live-online-training/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/dockercon-na-2018/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/kubecon-na-2018/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/dockercon-eu-2018/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-workshops/velocity-london-2018/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-labs/working-with-meshery-and-nsm/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-labs/working-with-meshery-and-traefik/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-labs/working-with-meshery-and-open-service-mesh/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/repository-overview/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/newcomers/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/contributor-journey/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/code-of-conduct/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/community/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/connect-with-us/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/community-roles/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/contribution/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/learn-layer5/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/mentorship-programs/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/projects/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/recognition/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/security-vulnerabilities/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/handbook/faq/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/aadhitya-amarendiran/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/aaditya-narayan-subedy/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/abdullah-rafi/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/abhishek-kumar/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/abiola-farounbi/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/adina-rav/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/adithya-krishna/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/aisuko-li/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/alonso-lopez/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/alvin-okafor/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/anita-ihuman/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/antonette-caldwell/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/arunima-chaudhuri/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/ashish-tiwari/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/atinuke-oluwabamikemi-kayode/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/avishkar-gunjal/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/ayush-sharma/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/azanul-haque/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/bariq-nurlis/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/chinu-anand/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/colby-stoker/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/cyrine-gamoudi/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/divine-orji/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/ednah-akoth/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/ekene-leonard-nwobodo/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/elizabeth-lola/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/gaganpreet-kaur-kalsi/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/gaurav-chadha/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/harkirat-singh/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/hersh-dhillon/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/hussaina-begum/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/jared-byers/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/jerod-culpepper/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/jesus-lerma/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/jome-favourite/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/joseph-midura/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/joy-nwaiwu/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/krishna-gupta/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/lee-calcote/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/manish-tyagi/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/mario-arriaga/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/maximiliano-churichi/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/michael-gfeller/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/naimat-oyewale/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/nic-jackson/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/nikhil-ladha/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/nishant-mittal/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/olayiwola-ololade/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/otto-van-der-schaaf/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/pranav-singh/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/shivam-sood/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/shivay-lamba/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/sudhanshu-dasgupta/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/tolulope-ola-david/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/uzair-shaikh/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/vivek-vishal/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/xin-huang/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/yash-sharma/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/yash-tandon/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/community-managers/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/kubecon-cloudnativecon-north-america-chicago-2023/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/kubecon-cloudnativecon-eu-amsterdam-2023/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/kubecon-cloudnative-north-america-2022/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/events/layer5-at-kubecon-cloudnativecon-north-america/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/hacktoberfest-2022-docker-extensions-show-n-tell/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/programs/hacktoberfest/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/devops-and-docker-live-show/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/open-source-summit-north-america-2022/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/composing-cloud-native-infrastructure-with-docker-desktop-and-meshery/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/servicemeshcon-eu-2022/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/service-mesh-performance/meshmark-cloud-native-value-measurement/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/kubecon-cloudnativecon-eu-virtual-2022/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/dockercon-2022-lighting-talk-in-a-dedicated-community-room/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/dockercon-2022-lighting-talk-on-the-main-stage/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/devconf-2022/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/nithish-karthik/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/kubecon-china-2021/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/static/layer5-%20solving-the-service-mesh-adopter%E2%80%99s-dilemma-201fb82e14bc089fdd3ffa7d7c3ad9d3.pdf</loc>
+  <lastmod>2023-03-31T22:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/static/cncf-tag-network-and-service-mesh-working-group-kubecon-china-2021-lee-calcote-ken-owens-4740ee11b2cf1f62ed245579d5e4b085.pdf</loc>
+  <lastmod>2023-03-31T22:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/sunku-ranganath/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/meet-the-meshery-maintainers-at-kubecon-na-2021/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/servicemeshcon-na-2021/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/kubecon-cloudnativecon-eu-virtual-2021/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/hacktoberfest-prep-easing-into-cncf-open-source-projects/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/2/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/kubernetes/kubernetes-126-highlights-features-and-deprecations/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/kubernetes/structured-logging-in-kubernetes-with-klog/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/multi-cluster-kubernetes-management-with-meshery/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/how-to-deploy-meshery-on-aks/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/programs/my-journey-as-a-contributor-to-gsoc-intern-at-layer5/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/validating-meshery-cli-functionality/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/evolution-of-the-meshery-cli-command-reference/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/lfx-experience-at-layer5-pranav-singh/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/8-weeks-of-open-source-contribution-with-layer5/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/community/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/meshery/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/announcements/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/programs/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/events/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/landscape/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/docker/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/kubernetes/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/service-mesh-specifications/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/cloud-native/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/envoy/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/istio/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/open-service-mesh/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/performance/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/category/service-mesh-performance/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/meshery/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/community/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/programs/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/projects/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/experience/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/landscape/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/meshmate/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/news/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/smi/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/mesheryctl/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/events/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/kubernetes/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/smp/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/gsoc/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/kubecon/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/nighthawk/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/service-mesh-interface/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/service-mesh-performance/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/docker/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/open-source/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/performance/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/announcements/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/cncf/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/envoy/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/internship/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/istio/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/lfx/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/layer5/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/linkerd/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/meshmark/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/multi-cluster/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/open-service-mesh/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/opensource/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/opentelemetry/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/sca/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/service-mesh/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/servicemeshcon/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/testing/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/troubleshooting/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/ui/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/tag/grpc/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/cloud-native/terraform-with-meshery/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/kubernetes/management-of-kubernetes/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/kubernetes/getting-started-with-kubernetes/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/service-mesh/service-mesh-istio/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/devops/devops-adoption-identifying-the-right-metrics/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/cloud-native/what-is-gitops/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/service-mesh/service-mesh-consul/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/kubernetes/managing-containers/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/programs/gsoc/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/books/the-enterprise-path-to-service-mesh-architectures/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/brand/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://layer5.io/deploy-service-mesh/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/programs/communitybridge/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/programs/gsod/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/internships/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/programs/lfx/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/programs/mlh/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/programs/sca-contributhon/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/the-most-innovative-cloud-management-companies/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/the-ultimate-list-of-open-source-cloud-native-tools/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/intel-layer5-announce-meshmark-to-quantify-cloud-native-performance/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/meshmark-the-cloud-native-value-measurement/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/layer5-joins-docker-extension-program-bringing-kubernetes-and-service-mesh-management-to-docker-with-meshery/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/google-petitions-to-donate-istio-service-mesh-to-cncf/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/analyzing-service-mesh-performance/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/6-cncf-service-mesh-tools/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/cncf-adopts-meshery-to-advance-service-mesh-management/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/cncf-adopts-meshery-the-service-mesh-management-plane/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/cncf-projects-bring-service-mesh-interoperability-benchmarks/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/5-lesser-known-but-extremely-powerful-kubernetes-service-mesh-tools/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/service-mesh-offers-promising-solution-for-cloud-native-networking/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/kubeconcloudnativecon/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/meshery-provides-the-service-mesh-management-plane-and-kubernetes-evolves-into-an-enterprise-platform/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/meshery-accepted-into-the-cncf-landscape/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/the-new-stack-what-the-numbers-say-about-how-service-meshes-are-used-today/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/learn-cloud-native-managing-service-meshes-with-meshery/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/vendors-make-a-splash-in-2019-service-mesh-implementation-rush/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/meshery-in-top-3-service-mesh-developments-in-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/kubecon-na-cncf-sig-network-set-intro-and-deep-dive/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/cncf-sig-network-set-to-push-cloud-native-networking-forward/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/layer5-joins-the-cncf/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/company/news/forrester-layer5-and-meshery-help-developers-focus-on-the-business/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/static/bookmarks-3133e53640f6af6281d1e214f36172dc.pdf</loc>
+  <lastmod>2023-03-31T22:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/digital-marketing-internship/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/software-engineer-internship/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/ui-visual-designer-internship/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/software-engineer/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/ui-engineer/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/ui-visual-designer/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/careers/ux-engineer/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/advance-concepts-of-service-mesh/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/debopriya-bhattacharjee/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/aditya-chatterjee/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/newcomer/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/vijay-cherukuri/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/nupur-thakur/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/ruth-ikegah/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/jash-patel/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/tanuj-agarwal/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/functional-testing-with-cypress-in-meshery-ui/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/rodolfo-martinez-vega/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/piyush-singariya/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/announcements/a-standard-interface-for-service-meshes/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/subscribe/</loc>
+  <lastmod>2023-03-31T22:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/lee-calcote/bio/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/deepesha-burse/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/cloud-native-management/meshery/integrations/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/static/hacktoberfest-prep-easing-into-cncf-open-source-projects-4235bc065f9de3d12207f00c121cf50f.pdf</loc>
+  <lastmod>2023-03-31T22:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/utkarsh-srivastava/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/dhruv-patel/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/harshit-dandriyal/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/alexis-abakasanga/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/project-office-hours-service-mesh-performance-at-kubecon-na-2021/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/ccoss-meshery-workshop-2021/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/3/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/meshmate-of-the-year-2021-aditya-chatterjee/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/layer5-participates-in-she-code-africas-contributhon-program-2022/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/layer5-collaboration-with-openforce-2022/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/my-open-source-journey-layer5/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/meet-the-fall-interns-of-2021/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/she-code-africa-contributhon-boot-camp-report/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/meet-the-summer-interns-of-2021/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/meet-the-maintainer-jash-patel/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/how-to-write-unit-and-integration-tests-for-mesheryctl/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/an-introduction-to-meshery-webinar-on-demand/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/introducing-meshkit-and-the-meshery-adapter-library/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/getting-started-with-mesheryctl/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/deploying-linkerd-with-meshery/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/announcements/the-story-of-mesherys-1000-stars/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/announcements/announcing-meshery-v050/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/announcements/layer5-at-kubecon-na/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/announcements/announcing-a-new-line-of-meshmates/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/announcements/announcing-meshery-v040/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/announcements/meshery-lands-in-the-cncf-landscape/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/programs/gsoc-experience-layer5-piyush-singariya/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/programs/communitybridge-2020-teaching-service-meshes-to-be-compliant/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/programs/google-summer-of-code-2020-service-mesh-performance-with-envoy-nighthawk/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/events/perfbytes-podcast/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/events/recap-kubecon-china-2021-tag-network-deep-dive/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/events/meshery-workshop-at-ccoss-2021/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/landscape/layer5-landscape-spectrums-revisited/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/landscape/introducing-comparative-spectrums-to-the-layer5-landscape/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/landscape/hacktoberfest-2019-heating-up/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/landscape/hacktoberfest-2019-documenting-my-first-ever-hacktoberfest-contribution/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/service-mesh-specifications/pipelining-service-mesh-specifications/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/service-mesh-specifications/service-mesh-specifications-and-why-they-matter/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/cloud-native/rethinking-protocol-buffers-with-buf/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/envoy/debug-envoy-proxy/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/istio/service-mesh-istio-patterns-for-multitenancy/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/open-service-mesh/announcing-the-meshery-adapter-for-open-service-mesh/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/performance/performance-benchmarking-using-meshery-and-nighthawk/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/meshmate-of-the-year-2020-nikhil-ladha/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/meet-the-maintainer-michael-gfeller/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/my-journey-from-a-contributor-to-a-maintainer/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/community/how-i-schooled-my-seniors/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/blog/meshery/getting-started-with-meshery-wsl2-and-k3d/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/static/devops-adoption-choosing-the-right-metrics-a064d95e7d0e37af18817d28b58ef4ff.pdf</loc>
+  <lastmod>2023-03-31T22:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/service-mesh-books/the-enterprise-path-to-service-mesh-architectures-2nd-edition/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/chinmay-mehta/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/about/</loc>
+  <lastmod>2023-03-31T22:20:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/istio/getting-started/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/istio/deploy-an-application/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/istio/expose-services/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/istio/observability/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/istio/routing-and-canary/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/istio/fault-injection/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/istio/mutual-tls/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/istio/circuit-breaking/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/istio/conclusion/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/advance-concepts-of-service-mesh/istio/getting-started/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/advance-concepts-of-service-mesh/istio/deploy-an-application/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/advance-concepts-of-service-mesh/istio/expose-services/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/advance-concepts-of-service-mesh/istio/observability/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/advance-concepts-of-service-mesh/istio/traffic-management/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/advance-concepts-of-service-mesh/istio/service-security-capabilities/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/advance-concepts-of-service-mesh/istio/webassembly-and-intelligent-data-planes/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/advance-concepts-of-service-mesh/istio/conclusion/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/istiocon-2021/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/introduction-to-istio/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/advanced-istio/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/kubecon-na-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/servicemeshcon-na-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/2020-all-day-devops/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/open-infrastructure-summit-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/ccoss-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/4/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/abishek-kumar/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/soham-sonawane/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/smi/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/anton-weiss/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/kelechi-nwachukwu/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/kanishkar-j/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/deepak-gupta/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/resources/service-mesh-performance/analyzing-service-mesh-performance/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/rafi-ungar/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/shriti-chandra/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/members/nuno-do-carmo/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/linkerd/getting-started/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/linkerd/deploy-an-application/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/linkerd/expose-services/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/linkerd/observability/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/linkerd/fault-injection/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/linkerd/conclusion/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/virtual-cloud-native-ambassador-day/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/service-meshes-but-at-what-cost/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/oreilly-oscon-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/securing-the-mesh/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/oreilly-infrastructure-ops/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/dockercon-live/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/establishing-an-open-source-program-office/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/meshery-the-multi-mesh-manager-kudo-kubernetes-operators-the-easy-way/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/meshery-the-cloud-native-management-plane-kudo-kubernetes-operators-the-ea/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/5/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/linkerd/dashboard/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/linkerd/debugging/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://layer5.io/learn/learning-paths/mastering-service-meshes-for-developers/introduction-to-service-meshes/linkerd/traffic-splitting/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/innotech-dallas/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/kubecon-eu-2020/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/introduction-to-network-service-mesh/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://layer5.io/community/events/hands-on-workshop-introduction-to-istio/</loc>
+  <lastmod>2023-03-31T22:20:15+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
